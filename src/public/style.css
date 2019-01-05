@@ -1,8 +1,8 @@
 button {
-    height: 10%;
-    width: 27%;
-    background-color: red;
+    height: 130px;
+    width: 130px;
     font-size: 80%;
+    border-radius: 100px;
 }
 
 h1 {
