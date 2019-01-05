@@ -3,6 +3,7 @@ button {
     width: 130px;
     font-size: 80%;
     border-radius: 100px;
+    float: left;
 }
 
 h1 {
